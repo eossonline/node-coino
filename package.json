@@ -1,0 +1,22 @@
+{
+  "name": "node-coino",
+  "description": "Communicate with coinod via JSON-RPC",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "keywords": [
+    "coino",
+    "rpc"
+  ],
+  "author": "Steven McArdle <smcardle@eossonline.com>",
+  "contributors": [
+  ],
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eossonline/node-coino.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
